@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upd",
+				"updateGenotype"
+			],
+			[
+				"Geno",
+				"GenotypeError"
+			],
+			[
+				"_add",
+				"_addConnectionS2N"
+			],
+			[
+				"_ad",
+				"_addConnectionN2A"
+			],
+			[
+				"act",
+				"actuators_units"
+			],
+			[
+				"Indi",
+				"IndiTicTacToe"
+			],
+			[
+				"Pp",
+				"PopBrindle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/pole1.h",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "nnode.cpp",
+			"settings":
+			{
+				"buffer_size": 12781,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pole1.cpp",
+			"settings":
+			{
+				"buffer_size": 9567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neatmain.cpp",
+			"settings":
+			{
+				"buffer_size": 2784,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"buil",
+				"Build With: C++ Single File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: While Loop"
+			]
+		],
+		"width": 349.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"quit()",
+			"quit",
+			"?cmd",
+			"help",
+			"print(help(cmd))",
+			"words",
+			"words = [1, 2,3]",
+			"words",
+			"python3",
+			"print9\"kurw",
+			"help(cmp)",
+			"help(cmd)",
+			"print(\"kuba\")",
+			"help(cmd)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src"
+	],
+	"file_history":
+	[
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/neat.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/Makefile",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/pole1.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/pole1.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/neatmain.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/experiments.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/experiments.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/tests/networkActivate.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/xor.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/nnode.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/nnode.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/network.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/network.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/genome.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/population.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/link.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/src/gene.cpp",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/tests/networkActivate",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/genome.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/organism.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/population.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/gene.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/trait.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/MakefileTests",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/tests/kuba001.cpp",
+		"/home/kuba/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/kuba/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kuba/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/xor.h",
+		"/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/.gitignore",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/mutators.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_mutators.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/agent.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/genotype.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/species.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_species.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/units.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_binary.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_genotype.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_agentActivate.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_cortex.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_agent.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/actuators/simple_test.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/cortex.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/neuron.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/sensors/simple.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ideas/slots.txt",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ideas/blind_unit.txt",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/constrain.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/actuators/simple.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/scapes/smanager.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/test_speciesAndXor.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/afs/sigmoid.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/scapes/xor_test.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/examples/labels_and_colors.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/examples/visualise.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/visualise.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/__init__.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/__init__.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/__init__.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/examples/__init__.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/mutators/addbias.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/mutators/util.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/scapes/xor.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/mutators/mutateerror.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/mutators/__init__.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/ch_8/population.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/tests/scapes/test_manager.py",
+		"/H/neuroevolution/Ch_8/ch_8/neuron.py",
+		"/H/neuroevolution/Ch_8/ch_8/genotype.py",
+		"/H/neuroevolution/Ch_8/ch_8/agent.py",
+		"/H/neuroevolution/Ch_8/tests/test_agentActivate.py",
+		"/H/neuroevolution/Ch_8/ch_8/scapes/smanager.py",
+		"/H/neuroevolution/Ch_8/ch_8/cortex.py",
+		"/H/neuroevolution/Ch_8/src/exoself.py",
+		"/H/neuroevolution/Ch_8/ch_8/scapes/xor.py",
+		"/H/neuroevolution/Ch_8/ch_8/afs/identity.py",
+		"/H/neuroevolution/Ch_8/tests/scapes/test_manager.py",
+		"/H/neuroevolution/Ch_8/ch_8/util.py",
+		"/H/neuroevolution/Ch_8/ch_8/afs/tanh.py",
+		"/H/neuroevolution/Ch_8/ch_8/afs/__init__.py",
+		"/H/neuroevolution/Ch_8/ch_8/scapes/manager.py",
+		"/H/neuroevolution/Ch_8/tests/test_cortex.py",
+		"/H/neuroevolution/Ch_8/tests/test_species.py",
+		"/H/neuroevolution/Ch_8/src/trainer.py",
+		"/H/neuroevolution/Ch_8/tests/test_neuron.py",
+		"/H/neuroevolution/Ch_8/tests/test_agent.py",
+		"/H/neuroevolution/Ch_8/tests/test_bias.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/units/population.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/units/agent.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/units/genotype.py",
+		"/home/kuba/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/kuba/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/kuba/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/usr/local/lib/python3.4/dist-packages/pymongo-3.0.2.dev0-py3.4-linux-x86_64.egg/pymongo/common.py",
+		"/usr/local/lib/python3.4/dist-packages/pymongo-3.0.2.dev0-py3.4-linux-x86_64.egg/pymongo/collection.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/genotype.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/FirstGenotype.txt",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/exoself.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/genotype.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/units/mutators/mutator.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_8/src/units/xorscape.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/exoself.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/trainer.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/sensor.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/neuron.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/cortex.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/actuator.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/xorscape.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/scapeover.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/bias.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/cortex.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/neurons/neuron.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughPython/Ch_7/src/units/sensors/sensor.py",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/neuron.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/cortex.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/scape.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/exoself.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/trainer.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/morphology.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_7/genotype.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_6/records.hrl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_6/constructor.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_6/exoself.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_6/simple_neuron.erl",
+		"/media/Data/Knowledge/Neuroevolution/NeuroevolutionThroughErlang/Ch_6/simple_neuron.beam",
+		"/media/Data/Knowledge/Erlang/kuba/shopapp-1.0.0/test/shoapp_SUITE.erl",
+		"/media/Data/Knowledge/Erlang/kuba/shopapp-1.0.0/src/shopapp.erl"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"iterator",
+			"flush",
+			"go_cart",
+			"flush",
+			"species",
+			"ident",
+			"identity",
+			"outputsoff",
+			"SIGMOID",
+			"ftype",
+			"depth",
+			"max_depth",
+			"relax",
+			"nodes",
+			"node",
+			"activate",
+			"fabs",
+			"sensors",
+			"\"input\"",
+			"\"sensor\"",
+			"\"input\"",
+			"\"sensor\"",
+			"sensor",
+			"createFing",
+			"createFin",
+			"max",
+			"sensors",
+			"inputSlot",
+			"print",
+			", genotype,",
+			"self._generation",
+			"self._smanager",
+			"smanager",
+			"evo_hist",
+			"getScape",
+			"_scapes",
+			"self._scapes.append",
+			"_scapes",
+			"scapes",
+			"ro_ids",
+			"getWeights",
+			"backup",
+			"inputs",
+			"cortex",
+			"agentid",
+			"self._scapes",
+			"constrain",
+			"random.choice(constra",
+			"**kwargs",
+			"updateGeno",
+			"updateGenotype",
+			"newNeuron",
+			"outputIds",
+			"_randomWeight",
+			"ro_ids",
+			"__randomWeight",
+			"getScape",
+			"getscape",
+			"generateAgent",
+			"uuid4",
+			"scapesmanager",
+			":\n",
+			":`\n",
+			"inputs",
+			"l1",
+			"\n		",
+			"}",
+			"{",
+			"read_client",
+			"maf",
+			"mafiapp",
+			"ferdmbp",
+			"html",
+			"lists:concat",
+			"concat",
+			"SPEC",
+			"subscribe",
+			"Msg",
+			"code_loc",
+			"state",
+			"swap",
+			"build",
+			"put",
+			"spawn_Scapes",
+			"CAcc",
+			"_ExpG",
+			"get",
+			"{undef,[{io,fileormat,[\"Finished updating to file:~p~n\",[ffnn]],[]}]}",
+			"generate_id",
+			"SqrtFitness",
+			"move",
+			"C\n",
+			")\n",
+			"copy",
+			"50",
+			"500",
+			"250",
+			"sigmoid",
+			"quit",
+			"print",
+			"sigmoid",
+			"exp",
+			"pass",
+			")\n",
+			"csvfile",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"input",
+			", agent,",
+			"inputs",
+			"_inputs",
+			"*args",
+			"outlinksIds",
+			"randomWeight",
+			"_randomWeight",
+			"smanager",
+			"weights",
+			"]",
+			"[",
+			"shopapp",
+			"localhost",
+			"http",
+			"Msgs",
+			"spawn",
+			"project",
+			"F4Fitness",
+			"movedict",
+			"move = dict()\n		move[\"\"] = 0\n		move[\"CC\"] = 1\n		move[\"DC\"] = 1\n		move[\"CD\"] = 2\n		move[\"DD\"] = 2\n		\n		move[\"CCCC\"] = 3\n		move[\"CCCD\"] = 4\n		move[\"DCCC\"] = 3\n		move[\"DCCD\"] = 4\n		move[\"CDCC\"] = 5\n		move[\"CDCD\"] = 6\n		move[\"DDCC\"] = 5\n		move[\"DDCD\"] = 6\n		move[\"CCDC\"] = 3\n		move[\"CCDD\"] = 4\n		move[\"DCDC\"] = 3\n		move[\"DCDD\"] = 4\n		move[\"CDDC\"] = 5\n		move[\"CDDD\"] = 6\n		move[\"DDDC\"] = 5\n		move[\"DDDD\"] = 6\n\n		index = 7\n		for c1 in ['C', 'D']:\n			for c2 in ['C', 'D']:\n				for c3 in ['C', 'D']:\n					for c4 in ['C', 'D']:\n						for c5 in ['C', 'D']:\n							for c6 in ['C', 'D']:\n								move[c1 + c2 + c3 + c4 + c5 + c6] = index\n								index += 1\n",
+			"1",
+			"sublime_text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/Data/Knowledge/Neuroevolution/NEAT/NEAT/include/pole1.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1365,
+								1365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "nnode.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3955,
+								3963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 568.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pole1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5064,
+								5064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3632.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "neatmain.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2557,
+								2557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1071.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 259.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "neat.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\JAMLL\\jamll.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
